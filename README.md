@@ -1,4 +1,4 @@
-# COVID19_hackerearth
+# COVID19_hackerearth http://nitrookies.ezyro.com/ 
 link of the website: 
 http://nitrookies.ezyro.com/
 
