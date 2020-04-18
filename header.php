@@ -40,8 +40,8 @@ id="ais-concierge-script" concierge-token="4e8fe09d-8cef-4af7-8fcd-2bcb8852d4e8"
     </button>
     <div class="dropdown-content">
       <a href="predictor.php">Excel Data</a>
-      <a href="https://github.com/NitRookies/COVID19_hackerearth/blob/predictor/COVID19%20Prediction.ipynb" target="_blank">Asia</a>
-      <a href="https://github.com/NitRookies/COVID19_hackerearth/blob/predictor/Copy_of_time_series_covid_19.ipynb" target="_blank">India</a>
+      <a href="asia.php">Asia</a>
+      <a href="world.php">World</a>
     </div>
   </div>
   <div class="dropdown">
@@ -49,8 +49,8 @@ id="ais-concierge-script" concierge-token="4e8fe09d-8cef-4af7-8fcd-2bcb8852d4e8"
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-      <a href="https://2cdsoxqp4ar5rl6xk6dwvq-on.drv.tw/covid/location2.html">COVID19 Cases</a>
-      <a href="https://2cdsoxqp4ar5rl6xk6dwvq-on.drv.tw/covid/inhosp.html">Nearest Hospital(India)</a>
+      <a href="https://27mbjlivdgqin4iorizvkg-on.drv.tw/covid/location2.html">COVID19 Cases</a>
+      <a href="https://27mbjlivdgqin4iorizvkg-on.drv.tw/covid/inhosp.html">Nearest Hospital(India)</a>
       <a href="whosp.php">Nearest Hospital(USA)</a>
     </div>
   </div>
