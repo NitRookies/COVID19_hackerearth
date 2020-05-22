@@ -25,7 +25,7 @@ html {
   </u><p>How to make hand sanitizer at home?</p></center>
   <iframe width="100%" height="600" src="https://www.youtube.com/embed/I-e9AEaz0FQ" frameborder="50" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <center><p>How to make face mask at home?</p></center>
-  <iframe width="100%" height="600" src="https://www.youtube.com/embed/VzywU8UGnxA" frameborder="50" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
 <iframe width="100%" height="600" src="https://www.youtube.com/embed/2D_sOn_Vg8w" frameborder="50" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <div class="main" id="section2">
@@ -326,6 +326,7 @@ body {
 <div class="sidenav"><center>
   <a href="#section1">Measures</a>
   <a href="#section2">Helpline</a>
+  <a href="https://forms.gle/BnBVaNDSts4SVzWD7" target="blank">Patient's Corner</a>
   <a href="#section3">Data</a>
   <a href="#section4">About Us</a></center>
 </div>
