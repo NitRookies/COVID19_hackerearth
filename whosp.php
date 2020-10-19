@@ -89,6 +89,13 @@ addMarker({lat: 42.655693 ,lng: -73.803856 });
 addMarker({lat: 30.443605 ,lng: -91.090599 });
 addMarker({lat: 32.253006 ,lng: -110.880989 });
 addMarker({lat: 30.660294 ,lng: -96.351074 });
+addMarker({lat: 39.214551 ,lng: -76.886368 });
+addMarker({lat: 39.680665 ,lng: -80.849915 });
+addMarker({lat: 42.317120 ,lng: -88.274437 });
+addMarker({lat: 42.655690 ,lng: -73.803856 });
+addMarker({lat: 30.443615 ,lng: -91.090599 });
+addMarker({lat: 32.253406 ,lng: -110.880989 });
+addMarker({lat: 30.660194 ,lng: -96.351074 });
         //addMarker({lat:22.6998697,lng:88.39098349999999});
         //add marker function
         function addMarker(coords){
